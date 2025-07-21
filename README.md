@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hi, I'm Stephen
 
-<!--
-**stephenjamesada/stephenjamesada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Software Developer / IT Specialist
 
-Here are some ideas to get you started:
+**Located in**: St. Louis, Missouri
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contact**: ada_stephen@proton.me | [LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/)
+
+**Work Focus**: Python | Go (Golang) | TypeScript (TS)
+
+## What I Do
+
+I'm an aspiring software developer and IT specialist, learning the languages Python, Go and TypeScript.
+
+Currently enrolled in the [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) course provided by Coursera. When I finish, certification proof will be shown below.
+
+## GitHub Stats
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=stephenjamesada)](https://github.com/anuraghazra/github-readme-stats)
+
+## Outside of Work
+
+**Hobbies**: Music production, guitar, playing games (PS4, Switch, Mobile), philosophy, learning new things, computers
+
+**Fun Facts**: I have 4 computers:
+
+- Lenovo ThinkCentre M700 using Linux Mint (daily driver, main dev machine)
+- HP 2000 Notebook using Tiny11 (Old laptop revived with new hardware, used for music production)
+- Lenovo ThinkPad T560 using FreeBSD (BSD box for learning UNIX administration)
+- Low-spec eMMC laptop using XFCE Kali Linux (ethical hacking + pentesting box)
+
+## Let's Connect!!
+
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/stephenjamesada)
