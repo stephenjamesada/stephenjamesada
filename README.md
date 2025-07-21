@@ -32,3 +32,5 @@ Currently enrolled in the [Google IT Support Professional Certificate](https://w
 ## Let's Connect!!
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/stephenjamesada)
+
+[![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/stephenjamesada)
