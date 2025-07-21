@@ -6,7 +6,7 @@ Aspiring Software Developer / IT Specialist
 
 **Contact**: ada_stephen@proton.me | [LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/)
 
-**Work Focus**: Python | Go (Golang) | TypeScript (TS)
+**Work Focus**: Python | Go | TypeScript
 
 ## What I Do
 
