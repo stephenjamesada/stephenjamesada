@@ -17,7 +17,7 @@ Currently enrolled in the [Google IT Support Professional Certificate](https://w
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=stephenjamesada&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=stephenjamesada&theme=dark&hide_border=true)](https://git.io/streak-stats/?user=stephenjamesada)
 
 ## Outside of Work
 
