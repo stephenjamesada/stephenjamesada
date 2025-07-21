@@ -4,7 +4,8 @@ Aspiring Software Developer / IT Specialist
 
 **Located in**: St. Louis, Missouri
 
-**Contact**: ada_stephen@proton.me | [LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/)
+**Contact**: ada_stephen@proton.me | [LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/) | 
+[GitLab](https://gitlab.com/stephenjamesada)
 
 **Work Focus**: Python | Go | TypeScript
 
@@ -16,7 +17,7 @@ Currently enrolled in the [Google IT Support Professional Certificate](https://w
 
 ## GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=stephenjamesada&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=stephenjamesada&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## Outside of Work
 
@@ -32,5 +33,3 @@ Currently enrolled in the [Google IT Support Professional Certificate](https://w
 ## Let's Connect!!
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/stephenjamesada)
-
-[![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/stephenjamesada)
