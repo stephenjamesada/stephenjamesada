@@ -17,7 +17,7 @@ Currently enrolled in the [Google IT Support Professional Certificate](https://w
 
 ## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=stephenjamesada&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=stephenjamesada&theme=dark&show_icons=true&hide_border=true&count_private=false)
 
 ## Outside of Work
 
