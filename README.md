@@ -7,7 +7,7 @@ Aspiring Software Developer / IT Specialist
 **Contact**: ada_stephen@proton.me | [LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/) | 
 [GitLab](https://gitlab.com/stephenjamesada)
 
-**Work Focus**: Python | Go | TypeScript
+**Work Focus**: Python | Go | TypeScript | Ruby
 
 ## What I Do
 
@@ -19,9 +19,9 @@ Currently enrolled in the [Google IT Support Professional Certificate](https://w
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=stephenjamesada&theme=dark&show_icons=true&hide_border=true&count_private=false)
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stephenjamesada&bg_color=000000&color=3d3846&line=ffffff&point=77767b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenjamesada&layout=compact&theme=dark&hide_border=true&count_private=false)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stephenjamesada&bg_color=000000&color=3d3846&line=ffffff&point=77767b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Outside of Work
 
