@@ -7,7 +7,11 @@ Aspiring Software Developer / IT Specialist
 **Contact**: ada_stephen@proton.me | [LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/) | 
 [GitLab](https://gitlab.com/stephenjamesada)
 
-**Work Focus**: Python | Go | TypeScript | Ruby
+**Work Focus**: Python | Go | TypeScript
+
+**Other Languages**: Ruby
+
+> I separated Ruby from the Work Focus languages due to me using Ruby more for hobby projects rather than for professional work... but I may learn Rails later on.
 
 ## What I Do
 
