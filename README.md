@@ -11,7 +11,7 @@ Aspiring Software Developer / IT Specialist
 
 **Other Languages**: Ruby
 
-> I separated Ruby from the Work Focus languages due to me using Ruby more for hobby projects rather than for professional work... but I may learn Rails later on.
+> I separated Ruby from the Work Focus languages due to me using Ruby more for hobby projects rather than for professional work... but I may learn Rails later on. As for Go and TS, these are languages that I aim to be professional in, but I need to actually learn them first. I'm good with Python.
 
 ## What I Do
 
