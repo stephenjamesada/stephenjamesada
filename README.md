@@ -19,6 +19,12 @@ I'm an aspiring software developer and IT specialist, learning the languages Pyt
 
 Currently enrolled in the [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) course provided by Coursera. When I finish, certification proof will be shown below.
 
+> Besides dev, I'll also make repos of my IT labs. Regarding this, my toolset is:
+
+- Graphviz
+- GNS3
+- CORE
+
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=stephenjamesada&theme=dark&show_icons=true&hide_border=true&count_private=false)
