@@ -22,8 +22,8 @@ Currently enrolled in the [Google IT Support Professional Certificate](https://w
 > Besides dev, I'll also make repos of my IT labs. Regarding this, my toolset is:
 
 - Graphviz
-- GNS3
-- CORE
+- [GNS3](https://github.com/GNS3/gns3-gui)
+- [CORE](https://github.com/coreemu/core)
 
 ## GitHub Stats
 
