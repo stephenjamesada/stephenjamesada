@@ -7,23 +7,15 @@ Aspiring Software Developer / IT Specialist
 **Contact**: ada_stephen@proton.me | [LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/) | 
 [GitLab](https://gitlab.com/stephenjamesada)
 
-**Work Focus**: Python | Go | TypeScript
+**Work Focus**: Python
 
-**Other Languages**: Ruby
-
-> I separated Ruby from the Work Focus languages due to me using Ruby more for hobby projects rather than for professional work... but I may learn Rails later on. As for Go and TS, these are languages that I aim to be professional in, but I need to actually learn them first. I'm good with Python.
+**Learning**: C, C++
 
 ## What I Do
 
 I'm an aspiring software developer and IT specialist, learning the languages Python, Go and TypeScript.
 
 Currently enrolled in the [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) course provided by Coursera. When I finish, certification proof will be shown below.
-
-> Besides dev, I'll also make repos of my IT labs. Regarding this, my toolset is:
-
-- Graphviz
-- [GNS3](https://github.com/GNS3/gns3-gui)
-- [CORE](https://github.com/coreemu/core)
 
 ## GitHub Stats
 
