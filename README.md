@@ -15,7 +15,9 @@ Aspiring Software Developer / IT Specialist
 
 I'm an aspiring software developer and IT specialist, learning the languages Python, Go and TypeScript.
 
-Currently enrolled in the [Google IT Support Professional Certificate](https://www.coursera.org/professional-certificates/google-it-support) course provided by Coursera. When I finish, certification proof will be shown below.
+## Certifications
+
+![Google IT Support Professional Certificate](https://coursera.org/verify/professional-cert/U4YKBM53J8M2)
 
 ## GitHub Stats
 
