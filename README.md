@@ -17,7 +17,7 @@ I'm an aspiring software developer and IT specialist, learning the languages Pyt
 
 ## Certifications
 
-![Google IT Support Professional Certificate](https://coursera.org/verify/professional-cert/U4YKBM53J8M2)
+[Google IT Support Professional Certificate](https://coursera.org/verify/professional-cert/U4YKBM53J8M2)
 
 ## GitHub Stats
 
