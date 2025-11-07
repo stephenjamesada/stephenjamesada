@@ -41,3 +41,9 @@ I'm an aspiring software developer and IT specialist, learning the languages Pyt
 ## Let's Connect!!
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/stephenjamesada)
+
+Also check out my portfolio using this QR code!
+
+![Portfolio Site](qr_code.png)
+
+Made the QR code with my project [Py-QR](https://github.com/stephenjamesada/py-qr)!
