@@ -36,7 +36,7 @@ I'm an aspiring software developer and IT specialist, learning the languages Pyt
 - Lenovo ThinkCentre M700 using Linux Mint (daily driver, main dev machine)
 - HP 2000 Notebook using Tiny11 (Old laptop revived with new hardware, used for music production)
 - Lenovo ThinkPad T560 using FreeBSD (BSD box for learning UNIX administration)
-- Low-spec eMMC laptop using XFCE Kali Linux (ethical hacking + pentesting box)
+- Low-spec eMMC laptop, currently no OS (considering Void Linux)
 
 ## Let's Connect!!
 
