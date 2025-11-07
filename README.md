@@ -45,7 +45,7 @@ I'm an aspiring software developer and IT specialist, learning the languages Pyt
 ## Portfolio Site
 
 <p align="center">
-<img src="qr_code.png" width="200"><br>
+<a href="https://portfolio-website-kz5e.onrender.com/"><img src="qr_code.png" width="200"></a><br>
 Use this QR code to get to my portfolio site!<br>
 QR code created w/ my project <strong><a href=https://github.com/stephenjamesada/py-qr>Py-QR</a></strong>
 </p>
