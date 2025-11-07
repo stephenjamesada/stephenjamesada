@@ -42,8 +42,11 @@ I'm an aspiring software developer and IT specialist, learning the languages Pyt
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/stephenjamesada)
 
-Also check out my portfolio using this QR code!
+## Portfolio Site
 
-![Portfolio Site](qr_code.png)
+<p align="center">
+<img src="qr_code.png" width="200"><br>
+Use this QR code to get to my portfolio site!
+</p>
 
-Made the QR code with my project [Py-QR](https://github.com/stephenjamesada/py-qr)!
+> QR code created w/ my project [Py-QR](https://github.com/stephenjamesada/py-qr)
