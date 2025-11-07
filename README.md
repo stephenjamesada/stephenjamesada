@@ -13,7 +13,7 @@ Aspiring Software Developer / IT Specialist
 
 ## What I Do
 
-I'm an aspiring software developer and IT specialist, learning the languages Python, Go and TypeScript.
+I'm an aspiring software developer and IT specialist, learning the languages Python, C, and C++.
 
 ## Certifications
 
