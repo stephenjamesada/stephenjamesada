@@ -33,9 +33,9 @@ I'm an aspiring software developer and IT specialist, learning the languages Pyt
 
 **Fun Facts**: I have 4 computers:
 
-- Lenovo ThinkCentre M700 using Linux Mint (daily driver, main dev machine)
+- Lenovo ThinkCentre M700 using Debian 13 (daily driver, main dev machine)
 - HP 2000 Notebook using Tiny11 (Old laptop revived with new hardware, used for music production)
-- Lenovo ThinkPad T560 using FreeBSD (BSD box for learning UNIX administration)
+- Lenovo ThinkPad T560 running Alpine Linux (Docker server)
 - Low-spec eMMC laptop, currently no OS (considering Void Linux)
 
 ## Let's Connect!!
