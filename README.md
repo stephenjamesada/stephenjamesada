@@ -29,8 +29,8 @@ I'm an aspiring software developer and IT specialist, learning the languages Pyt
 
 ## Projects
 
-| Project Field | Name | Description |
-|---------------|------|-------------|
+| Project Type | Name | Description |
+|--------------|------|-------------|
 | CLI Application | [PyResTables](https://github.com/stephenjamesada/pyrestables) | Static system monitoring tables |
 | CLI Application | [Py-QR](https://github.com/stephenjamesada/py-qr) | Fast QR code generator |
 | CLI Application | [Pynary](https://github.com/stephenjamesada/pynary) | Binary to decimal converter |
