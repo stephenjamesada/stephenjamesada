@@ -27,6 +27,14 @@ I'm an aspiring software developer and IT specialist, learning the languages Pyt
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stephenjamesada&bg_color=000000&color=3d3846&line=ffffff&point=77767b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+## Projects
+
+| Project Field | Name | Description |
+|---------------|------|-------------|
+| CLI Application | [PyResTables](https://github.com/stephenjamesada/pyrestables) | Static system monitoring tables |
+| CLI Application | [Py-QR](https://github.com/stephenjamesada/py-qr) | Fast QR code generator |
+| CLI Application | [Pynary](https://github.com/stephenjamesada/pynary) | Binary to decimal converter |
+
 ## Outside of Work
 
 **Hobbies**: Music production, guitar, playing games (PS4, Switch, Mobile), philosophy, learning new things, computers
