@@ -7,7 +7,7 @@ Aspiring Software Developer / IT Specialist
 **Contact**: ada_stephen@proton.me | [LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/) | 
 [GitLab](https://gitlab.com/stephenjamesada)
 
-**Work Focus**: Python
+**Work Focus**: Python, Bash
 
 **Learning**: C, C++
 
@@ -44,7 +44,7 @@ I'm an aspiring software developer and IT specialist, learning the languages Pyt
 - Lenovo ThinkCentre M700 using Debian 13 (daily driver, main dev machine)
 - HP 2000 Notebook using Tiny11 (Old laptop revived with new hardware, used for music production)
 - Lenovo ThinkPad T560 running Alpine Linux (Docker server)
-- Low-spec eMMC laptop, currently no OS (considering Void Linux)
+- Low-spec eMMC laptop w/ Arch Linux
 
 ## Let's Connect!!
 
