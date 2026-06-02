@@ -37,7 +37,7 @@ I'm an aspiring software developer and IT specialist, learning the languages Pyt
 
 ## Outside of Work
 
-**Hobbies**: Music production, guitar, playing games (PS4, Switch, Mobile), philosophy, learning new things, computers
+**Hobbies**: Music production, guitar, playing games (PS4, Switch, Mobile), reading, cooking, working out, learning new things, computers
 
 **Fun Facts**: I have 4 computers:
 
