@@ -4,16 +4,13 @@ Aspiring Software Developer / IT Specialist
 
 **Located in**: St. Louis, Missouri
 
-**Contact**: ada_stephen@proton.me | [LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/) | 
-[GitLab](https://gitlab.com/stephenjamesada)
+**Contact**: ada_stephen@proton.me | [LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/)
 
-**Work Focus**: Python, Bash
-
-**Learning**: C, C++
+**Work Focus**: Bash, Linux administration
 
 ## What I Do
 
-I'm an aspiring software developer and IT specialist, learning the languages Python, C, and C++.
+I'm an aspiring IT specialist, with Linux emphasis, aiming for Linux system administration. All previous coding projects and other contributions have been archived. Currently maintained repos are pinned below.
 
 ## Certifications
 
@@ -22,8 +19,6 @@ I'm an aspiring software developer and IT specialist, learning the languages Pyt
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=stephenjamesada&theme=dark&show_icons=true&hide_border=true&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenjamesada&layout=compact&theme=dark&hide_border=true&count_private=false)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stephenjamesada&bg_color=000000&color=3d3846&line=ffffff&point=77767b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -38,14 +33,8 @@ I'm an aspiring software developer and IT specialist, learning the languages Pyt
 - Lenovo ThinkPad T560 running Ubuntu Server
 - Low-spec eMMC laptop w/ Arch Linux
 
-## Let's Connect!!
+## Let's Connect
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/stephenjamesada)
-
-## Portfolio Site
-
-<p align="center">
-<a href="https://portfolio-website-kz5e.onrender.com/"><img src="qr_code.png" width="200"></a><br>
-Use this QR code to get to my portfolio site!<br>
 QR code created w/ my project <strong><a href=https://github.com/stephenjamesada/py-qr>Py-QR</a></strong>
 </p>
