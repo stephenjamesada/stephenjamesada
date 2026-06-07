@@ -10,7 +10,7 @@ IT Support Specialist / Linux Administrator
 
 ## What I Do
 
-IT specialist with Linux administration emphasis. All previous coding projects and other contributions have been archived. Currently maintained repos are pinned below.
+IT specialist with Linux administration emphasis. All previous coding projects and other contributions have been archived, as my focus has significantly shifted from web/software development to systems administration and infrastructure management. Currently maintained repos are pinned below.
 
 ## Certifications
 
