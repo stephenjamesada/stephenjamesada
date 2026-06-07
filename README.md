@@ -1,6 +1,6 @@
 ## Hi, I'm Stephen
 
-Aspiring Software Developer / IT Specialist
+IT Support Specialist / Linux Administrator
 
 **Located in**: St. Louis, Missouri
 
