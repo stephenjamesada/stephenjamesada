@@ -43,7 +43,7 @@ I'm an aspiring software developer and IT specialist, learning the languages Pyt
 
 - Lenovo ThinkCentre M700 using Debian 13 (daily driver, main dev machine)
 - HP 2000 Notebook using Tiny11 (Old laptop revived with new hardware, used for music production)
-- Lenovo ThinkPad T560 running Alpine Linux (Docker server)
+- Lenovo ThinkPad T560 running Ubuntu Server
 - Low-spec eMMC laptop w/ Arch Linux
 
 ## Let's Connect!!
