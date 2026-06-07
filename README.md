@@ -16,12 +16,6 @@ IT specialist with Linux administration emphasis. All previous coding projects a
 
 [Google IT Support Professional Certificate](https://coursera.org/verify/professional-cert/U4YKBM53J8M2)
 
-## GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=stephenjamesada&theme=dark&show_icons=true&hide_border=true&count_private=false)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stephenjamesada&bg_color=000000&color=3d3846&line=ffffff&point=77767b&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 ## Outside of Work
 
 **Hobbies**: Music production, guitar, playing games (PS4, Switch, Mobile), reading, cooking, working out, learning new things, computers
