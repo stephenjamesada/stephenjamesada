@@ -10,7 +10,7 @@ Aspiring Software Developer / IT Specialist
 
 ## What I Do
 
-I'm an aspiring IT specialist, with Linux emphasis, aiming for Linux system administration. All previous coding projects and other contributions have been archived. Currently maintained repos are pinned below.
+IT specialist with Linux administration emphasis. All previous coding projects and other contributions have been archived. Currently maintained repos are pinned below.
 
 ## Certifications
 
@@ -29,12 +29,10 @@ I'm an aspiring IT specialist, with Linux emphasis, aiming for Linux system admi
 **Fun Facts**: I have 4 computers:
 
 - Lenovo ThinkCentre M700 using Debian 13 (daily driver, main dev machine)
-- HP 2000 Notebook using Tiny11 (Old laptop revived with new hardware, used for music production)
+- HP 2000 Notebook using Tiny11 (Old laptop revived with better hardware, used for music production)
 - Lenovo ThinkPad T560 running Ubuntu Server
 - Low-spec eMMC laptop w/ Arch Linux
 
 ## Let's Connect
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/stephenjamesada)
-QR code created w/ my project <strong><a href=https://github.com/stephenjamesada/py-qr>Py-QR</a></strong>
-</p>
