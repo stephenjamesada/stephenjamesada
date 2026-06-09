@@ -1,32 +1,65 @@
 ## Hi, I'm Stephen
 
-IT Support Specialist / Linux Administrator
+IT Support Specialist | Linux Systems Enthusiast
 
 **Located in**: St. Louis, Missouri
 
 **Contact**: ada_stephen@proton.me | [LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/)
 
-**Work Focus**: Bash, Linux administration
+**Work Focus**: Linux administration, Bash automation, homelab infrastructure, technical documentation
 
-## What I Do
+## Current Focus
 
-IT specialist with Linux administration emphasis. All previous coding projects and other contributions have been archived, as my focus has significantly shifted from web/software development to systems administration and infrastructure management. Currently maintained repos are pinned below.
+Linux system administration, automation, and infrastructure management.
+
+### Areas of Interest
+
+- Linux administration
+- Bash scripting and automation
+- Homelab operations
+- Technical documentation
+- IaC / Infrastructure-as-Code
+
+## Featured Repositories
+
+#### [homelab-notes](https://github.com/stephenjamesada/homelab-notes)
+> Homelab notes featuring service, host, runbook, and networking documentation.
+
+#### [study-notes](https://github.com/stephenjamesada/study-notes)
+> Study notes managed in an Obsidian vault, covering subjects such as Bash, Git, Vim, and others.
+
+#### [dotfiles](https://github.com/stephenjamesada/dotfiles)
+> System deployment dotfiles for my Debian system, managed with *GNU Stow*.
+
+### [scripts](https://github.com/stephenjamesada/scripts)
+> Bash automation for system maintenance and productivity/workflow tasks.
+
+## Technologies
+
+- Debian
+- Ubuntu Server
+- Bash
+- Git
+- SSH
+- systemd
+- Linux networking
 
 ## Certifications
 
 [Google IT Support Professional Certificate](https://coursera.org/verify/professional-cert/U4YKBM53J8M2)
 
-## Outside of Work
+## Outside of Tech
 
-**Hobbies**: Music production, guitar, playing games (PS4, Switch, Mobile), reading, cooking, working out, learning new things, computers
-
-**Fun Facts**: I have 4 computers:
-
-- Lenovo ThinkCentre M700 using Debian 13 (daily driver, main dev machine)
-- HP 2000 Notebook using Tiny11 (Old laptop revived with better hardware, used for music production)
-- Lenovo ThinkPad T560 running Ubuntu Server
-- Low-spec eMMC laptop w/ Arch Linux
+- Music production
+- Guitar
+- Games
+- Reading
+- Fitness
 
 ## Let's Connect
 
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/stephenjamesada)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/stephen_j_ada)
+
+[LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/)
