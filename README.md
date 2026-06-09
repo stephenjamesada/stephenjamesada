@@ -26,7 +26,7 @@ Linux system administration, automation, and infrastructure management.
 > Homelab notes featuring service, host, runbook, and networking documentation.
 
 #### [study-notes](https://github.com/stephenjamesada/study-notes)
-> Study notes managed in an Obsidian vault, covering subjects such as Bash, Git, Vim, and others.
+> Study notes covering subjects such as Bash, Git, Vim, and others.
 
 #### [dotfiles](https://github.com/stephenjamesada/dotfiles)
 > System deployment dotfiles for my Debian system, managed with *GNU Stow*.
