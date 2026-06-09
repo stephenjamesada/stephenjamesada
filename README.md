@@ -1,4 +1,4 @@
-## Hi, I'm Stephen
+# Hi, I'm Stephen
 
 IT Support Specialist | Linux Systems Enthusiast
 
@@ -31,7 +31,7 @@ Linux system administration, automation, and infrastructure management.
 #### [dotfiles](https://github.com/stephenjamesada/dotfiles)
 > System deployment dotfiles for my Debian system, managed with *GNU Stow*.
 
-### [scripts](https://github.com/stephenjamesada/scripts)
+#### [scripts](https://github.com/stephenjamesada/scripts)
 > Bash automation for system maintenance and productivity/workflow tasks.
 
 ## Technologies
@@ -62,4 +62,4 @@ Linux system administration, automation, and infrastructure management.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/stephen_j_ada)
 
-[LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-ada-345a06370/)
