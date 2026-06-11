@@ -22,6 +22,9 @@ Linux system administration, automation, and infrastructure management.
 
 ## Featured Repositories
 
+#### [homelab-infrastructure](https://github.com/stephenjamesada/homelab-infrastructure)
+> Homelab IaC files such as Bash automation scripts, Ansible playbooks, and service configurations.
+
 #### [homelab-notes](https://github.com/stephenjamesada/homelab-notes)
 > Homelab notes featuring service, host, runbook, and networking documentation.
 
