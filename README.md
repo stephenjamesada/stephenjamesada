@@ -8,6 +8,8 @@ IT Support Specialist | Linux Systems Enthusiast
 
 **Work Focus**: Linux administration, Bash automation, homelab infrastructure, technical documentation
 
+**Languages**: Bash, Python
+
 ## Current Focus
 
 Linux system administration, automation, and infrastructure management.
