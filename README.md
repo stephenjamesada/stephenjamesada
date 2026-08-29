@@ -30,7 +30,7 @@ Linux system administration, automation, and infrastructure management.
 #### [homelab-notes](https://github.com/stephenjamesada/homelab-notes)
 > Homelab notes featuring service, host, runbook, and networking documentation.
 
-#### [man-nav](https://github.com/stephenjames/man-nav)
+#### [man-nav](https://github.com/stephenjamesada/man-nav)
 > Robust Bash script that automates navigating and browsing man pages.
 
 #### [dotfiles](https://github.com/stephenjamesada/dotfiles)
