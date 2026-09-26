@@ -75,7 +75,8 @@ a desktop system.
 
 ## Certifications
 
-[Google IT Support Professional Certificate](https://coursera.org/verify/professional-cert/U4YKBM53J8M2)
+[![Static Badge](https://img.shields.io/badge/Google_IT_Support_Professional_Certificate-blue?style=for-the-badge&logo=coursera)
+](https://coursera.org/verify/professional-cert/U4YKBM53J8M2)
 
 ## Let's Connect!
 
