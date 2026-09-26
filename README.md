@@ -1,4 +1,4 @@
-`# Hi, I'm Stephen
+# Hi, I'm Stephen
 
 IT Support Specialist | Linux Systems Enthusiast
 
