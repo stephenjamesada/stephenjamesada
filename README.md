@@ -22,6 +22,13 @@ Linux system administration, automation, and infrastructure management.
 - Technical documentation
 - IaC / Infrastructure-as-Code
 
+## Why?
+
+I build and administer Linux infrastructure, with an emphasis on automation, maintainability, and ease of deployment.
+I use Linux everyday both as a workstation and for self-hosting services, surrounding myself with various distributions.
+I value efficiency and minimalist workflows, especially in the terminal, so Linux naturally became a fit for me as
+a desktop system.
+
 ## Featured Repositories
 
 #### [homelab-infrastructure](https://github.com/stephenjamesada/homelab-infrastructure)
@@ -41,13 +48,24 @@ Linux system administration, automation, and infrastructure management.
 
 ## Technologies
 
+### Systems
 - Debian
 - Ubuntu Server
+- Linux Mint
+
+### Administration
+- Cockpit
+- SSH
+- Linux networking
+- systemd
+
+### Automation
 - Bash
 - Git
-- SSH
-- systemd
-- Linux networking
+
+### Documentation
+- Markdown
+- Infrastructure documentation
 
 ## Certifications
 
