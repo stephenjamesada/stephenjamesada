@@ -46,6 +46,9 @@ a desktop system.
 #### [scripts](https://github.com/stephenjamesada/scripts)
 > Bash automation for system maintenance and productivity/workflow tasks.
 
+#### [.vim](https://github.com/stephenjamesada/.vim)
+> Modular configuration setup for traditional Vim.
+
 ## Technologies
 
 ### Systems
