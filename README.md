@@ -67,11 +67,13 @@ a desktop system.
 
 ### Automation
 - Bash
-- Git
 
 ### Documentation
 - Markdown
 - Infrastructure documentation
+
+### Versioning
+- Git
 
 ## Certifications
 
