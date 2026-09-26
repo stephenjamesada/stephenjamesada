@@ -26,8 +26,7 @@ Linux system administration, automation, and infrastructure management.
 
 I build and administer Linux infrastructure, with an emphasis on automation, maintainability, and ease of deployment.
 I use Linux everyday both as a workstation and for self-hosting services, surrounding myself with various distributions.
-I value efficiency and minimalist workflows, especially in the terminal, so Linux naturally became a fit for me as
-a desktop system.
+I value efficiency and minimal workflows.
 
 ## Featured Repositories
 
