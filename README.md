@@ -8,7 +8,7 @@ IT Support Specialist | Linux Systems Enthusiast
 
 **Work Focus**: Linux administration, Bash automation, homelab infrastructure, technical documentation
 
-**Languages**: Shell, Vimscript
+**Languages**: Shell, Vimscript, Markdown
 
 ## Current Focus
 
