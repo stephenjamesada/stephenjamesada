@@ -34,6 +34,9 @@ a desktop system.
 #### [homelab-infrastructure](https://github.com/stephenjamesada/homelab-infrastructure)
 > Homelab IaC files such as Bash automation scripts, Ansible playbooks, and service configurations.
 
+> [!IMPORTANT]
+> `homelab-infrastructure` is currently a repo with many inaccuracies and will be updated soon.
+
 #### [homelab-notes](https://github.com/stephenjamesada/homelab-notes)
 > Homelab notes featuring service, host, runbook, and networking documentation.
 
