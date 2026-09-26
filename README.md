@@ -43,8 +43,8 @@ a desktop system.
 #### [dotfiles](https://github.com/stephenjamesada/dotfiles)
 > System deployment dotfiles for my Debian system, managed with *GNU Stow*.
 
-#### [scripts](https://github.com/stephenjamesada/scripts)
-> Bash automation for system maintenance and productivity/workflow tasks.
+#### [notebook](https://github.com/stephenjamesada/notebook)
+> Terminal-based, technical knowledge base covering Linux/Unix, Git, and Vim concepts.
 
 #### [.vim](https://github.com/stephenjamesada/.vim)
 > Modular configuration setup for traditional Vim.
