@@ -14,7 +14,7 @@ jobs:
 
       - name: Install mdformat
         run: |
-          pip install mdformat==1.0.0
+          pip install mdformat==1.0.0 mdformat-gfm=1.0.0 mdformat_frontmatter=2.1.2
           mdformat --version
 
       - name: Check formatting
