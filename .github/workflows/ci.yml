@@ -15,7 +15,13 @@ jobs:
       - name: Install mdformat
         run: |
           pip install mdformat==1.0.0 mdformat-gfm==1.0.0 mdformat_frontmatter==2.1.2
+          npm install -g markdownlint-cli2
+          cargo install lychee
           mdformat --version
+          lychee --version
 
       - name: Check formatting
-        run: mdformat --check README.md
+        run: |
+          mdformat --check README.md
+          markdownlint-cli2 README.md
+          lychee README.md
