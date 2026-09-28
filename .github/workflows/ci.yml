@@ -18,4 +18,6 @@ jobs:
           mdformat --version
 
       - name: Check formatting
-        run: mdformat --check README.md
+        run: |
+          mdformat --diff README.md
+          mdformat --check README.md
