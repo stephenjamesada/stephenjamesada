@@ -17,11 +17,11 @@ jobs:
           pip install mdformat==1.0.0 mdformat-gfm==1.0.0 mdformat_frontmatter==2.1.2
           mdformat --version
 
-     - name: Check links
-       uses: lycheeverse/lychee-action@v2
-       with:
-         args: README.md
-         fail: true
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: README.md
+          fail: true
 
       - name: Lint file
         uses: DavidAnson/markdownlint-cli2-action@v24
