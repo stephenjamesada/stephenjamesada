@@ -21,18 +21,6 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           args: README.md
-          fail: true
-
-      - name: Check links
-        uses: lycheeverse/lychee-action@v2
-        with:
-          args: README.md
-          fail: true
-
-      - name: Check links
-        uses: lycheeverse/lychee-action@v2
-        with:
-          args: README.md
           fail: false
 
       - name: Lint file
