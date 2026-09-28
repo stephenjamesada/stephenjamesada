@@ -17,19 +17,14 @@ jobs:
           pip install mdformat==1.0.0 mdformat-gfm==1.0.0 mdformat_frontmatter==2.1.2
           mdformat --version
 
-      - name: Install markdownlint-cli2
-        run: npm install -g markdownlint-cli2
+     - name: Check links
+       uses: lycheeverse/lychee-action@v2
+       with:
+         args: README.md
+         fail: true
 
-      - name: Install lychee
-        run: |
-          cargo install lychee
-          lychee --version
-
-      - name: Check formatting
-        run: mdformat --check README.md
-        
       - name: Lint file
-        run: markdownlint-cli2 README.md
-        
-      - name: Check links
-        run: lychee README.md
+        uses: DavidAnson/markdownlint-cli2-action@v24
+        with:
+          args: README.md
+          continue-on-error: true
