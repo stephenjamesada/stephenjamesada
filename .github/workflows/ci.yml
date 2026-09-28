@@ -1,0 +1,19 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  markdown:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Install mdformat
+        run: pip install mdformat mdformat-gfm mdformat-frontmatter
+
+      - name: Check formatting
+        run: mdformat --check README.md
