@@ -92,4 +92,4 @@ I value efficiency and minimal workflows.
 
 ## Let's Connect!
 
-[X](https://x.com/stephenjamesada) | [Instagram](https://instagram.com/stephen_j_ada) | [LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/)
+\[X\](https://x.com/stephenjamesada) | [Instagram](https://instagram.com/stephen_j_ada) | [LinkedIn](https://www.linkedin.com/in/stephen-ada-345a06370/)
