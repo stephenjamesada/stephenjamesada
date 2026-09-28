@@ -17,25 +17,23 @@ jobs:
           pip install mdformat==1.0.0 mdformat-gfm==1.0.0 mdformat_frontmatter==2.1.2
           mdformat --version
 
-<<<<<<< Updated upstream
       - name: Check links
         uses: lycheeverse/lychee-action@v2
         with:
           args: README.md
           fail: true
-||||||| Stash base
-     - name: Check links
-       uses: lycheeverse/lychee-action@v2
-       with:
-         args: README.md
-         fail: true
-=======
-     - name: Check links
-       uses: lycheeverse/lychee-action@v2
-       with:
-         args: README.md
-         fail: false
->>>>>>> Stashed changes
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: README.md
+          fail: true
+
+      - name: Check links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: README.md
+          fail: false
 
       - name: Lint file
         uses: DavidAnson/markdownlint-cli2-action@v24
