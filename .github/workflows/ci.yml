@@ -26,5 +26,5 @@ jobs:
       - name: Lint file
         uses: DavidAnson/markdownlint-cli2-action@v24
         with:
-          args: README.md
+          globs: README.md
           continue-on-error: true
