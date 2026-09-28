@@ -31,47 +31,58 @@ I value efficiency and minimal workflows.
 ## Featured Repositories
 
 #### [homelab-infrastructure](https://github.com/stephenjamesada/homelab-infrastructure)
+
 > Homelab IaC files such as Bash automation scripts, Ansible playbooks, and service configurations.
 
 > [!IMPORTANT]
 > `homelab-infrastructure` is currently a repo with many inaccuracies and will be updated soon.
 
 #### [homelab-notes](https://github.com/stephenjamesada/homelab-notes)
+
 > Homelab notes featuring service, host, runbook, and networking documentation.
 
 #### [man-nav](https://github.com/stephenjamesada/man-nav)
+
 > Robust Bash script that automates navigating and browsing man pages.
 
 #### [dotfiles](https://github.com/stephenjamesada/dotfiles)
+
 > System deployment dotfiles for my Debian system, managed with *GNU Stow*.
 
 #### [notebook](https://github.com/stephenjamesada/notebook)
+
 > Terminal-based, technical knowledge base covering Linux/Unix, Git, and Vim concepts.
 
 #### [.vim](https://github.com/stephenjamesada/.vim)
+
 > Modular configuration setup for traditional Vim.
 
 ## Technologies
 
 ### Systems
+
 - Debian
 - Ubuntu Server
 - Linux Mint
 
 ### Administration
+
 - Cockpit
 - SSH
 - Linux networking
 - systemd
 
 ### Automation
+
 - Bash
 
 ### Documentation
+
 - Markdown
 - Infrastructure documentation
 
 ### Versioning
+
 - Git
 
 ## Certifications
