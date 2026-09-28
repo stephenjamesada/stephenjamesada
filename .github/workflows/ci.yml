@@ -13,7 +13,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Install mdformat
-        run: pip install mdformat mdformat-gfm mdformat-frontmatter
+        run: |
+          pip install mdformat mdformat-gfm mdformat-frontmatter
+          mdformat --version
 
       - name: Check formatting
         run: mdformat --check README.md
