@@ -14,10 +14,8 @@ jobs:
 
       - name: Install mdformat
         run: |
-          pip install mdformat mdformat-gfm mdformat-frontmatter
+          pip install mdformat==1.0.0
           mdformat --version
 
       - name: Check formatting
-        run: |
-          mdformat --diff README.md
-          mdformat --check README.md
+        run: mdformat --check README.md
